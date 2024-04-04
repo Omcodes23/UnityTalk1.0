@@ -12,7 +12,7 @@ function Navbar() {
                     {/* <span className="text-white text-lg font-semibold mr-4">भाषाTalk</span> */}
                     <a href="https://github.com/Omcodes23/UnityTalk1.0" className="text-gray-300 hover:text-white px-3 py-2">Github</a>
                     {/* <a href="#" className="text-gray-300 hover:text-white px-3 py-2">Features</a> */}
-                    <a href="./doc.docx" className="text-gray-300 hover:text-white px-3 py-2">Documentation</a>
+                    {/* <a href="./doc.docx" className="text-gray-300 hover:text-white px-3 py-2">Documentation</a> */}
                 </div>
             </div>
         </nav>
