@@ -9,10 +9,10 @@ function Navbar() {
         <nav className="bg-gray/30 backdrop-blur-lg py-4 fixed top-0 left-0 right-0 z-20" style={{borderBottom: "1px solid white"}}>
             <div className="container mx-auto flex justify-center items-center">
                 <div className="flex items-center">
-                    <span className="text-white text-lg font-semibold mr-4">भाषाTalk</span>
-                    <a href="#" className="text-gray-300 hover:text-white px-3 py-2">Home</a>
-                    <a href="#" className="text-gray-300 hover:text-white px-3 py-2">Features</a>
-                    <a href="#" className="text-gray-300 hover:text-white px-3 py-2">About Us</a>
+                    {/* <span className="text-white text-lg font-semibold mr-4">भाषाTalk</span> */}
+                    <a href="https://github.com/Omcodes23/UnityTalk1.0" className="text-gray-300 hover:text-white px-3 py-2">Github</a>
+                    {/* <a href="#" className="text-gray-300 hover:text-white px-3 py-2">Features</a> */}
+                    <a href="./doc.docx" className="text-gray-300 hover:text-white px-3 py-2">Documentation</a>
                 </div>
             </div>
         </nav>
